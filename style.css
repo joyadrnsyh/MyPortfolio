@@ -1,0 +1,19 @@
+.jumbotron{
+    background: rgb(9,102,121);
+background: linear-gradient(0deg, rgba(9,102,121,1) 16%, rgba(6,147,227,1) 100%);
+    color: white;
+}
+
+.aboutme {
+    background-color: #0693E3;
+    color: white;
+}
+
+
+
+.contactme{
+    background: rgb(153,0,239);
+    background: linear-gradient(102deg, rgba(153,0,239,1) 26%, rgba(49,59,239,1) 56%, rgba(0,169,239,1) 100%);
+    color: white;
+    padding-top: 5rem;
+}
